@@ -92,6 +92,9 @@ img {
 .bridge-1 {
   width: 800px;
 }
+.model-01 {
+  width: 800px;
+}
 @media (max-width: 768px) {
 .pf-header {
   width: 100%;
@@ -124,6 +127,9 @@ img {
   padding-bottom: 5px;
 }
 .bridge-1 {
+  width: 400px;
+}
+.model-01 {
   width: 400px;
 }
 }
