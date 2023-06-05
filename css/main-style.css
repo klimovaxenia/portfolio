@@ -89,11 +89,51 @@ img {
   max-width: 700px;
   padding-bottom: 5px;
 }
+.pr-4 img {
+  height: 600px;
+  padding-bottom: 5px;
+}
 .bridge-1 {
   width: 800px;
 }
 .model-01 {
   width: 800px;
+}
+.model-02 {
+  height: 295px;
+}
+.model-03 {
+  height: 295px;
+}
+.parf {
+  width: 750px;
+}
+.vangelis {
+  width: 700px; 
+  padding: 0px; 
+  border: 1px solid silver;
+  margin: 5px;
+}
+.model-04 {
+  width: 700px;
+}
+.pr-5 {
+  width: 700px; 
+  padding: 0px; 
+  border: 1px solid silver; 
+  margin: 5px;
+}
+.gr-1 {
+  height: 800px;
+}
+.gr-2 {
+  height: 800px;
+}
+.gr-3 {
+  height: 600px;
+}
+.gr-4 {
+  height: 800px;
 }
 @media (max-width: 768px) {
 .pf-header {
@@ -119,17 +159,62 @@ img {
   padding-bottom: 5px;
 }
 .pr-2 img {
-  height: 350px;
+  height: 250px;
   padding-bottom: 5px;
 }
 .pr-3 img {
-  max-width: 450px;
+  max-width: 350px;
+  padding-bottom: 5px;
+}
+.pr-4 img:nth-child(1) {
+  height: 450px;
+  padding-bottom: 5px;
+}
+.pr-4 img:nth-child(2) {
+  height: 500px;
   padding-bottom: 5px;
 }
 .bridge-1 {
-  width: 400px;
+  width: 350px;
 }
 .model-01 {
-  width: 400px;
+  width: 350px;
 }
+.model-02 {
+  height: 265px;
+}
+.model-03 {
+  height: 245px;
+}
+.parf {
+  width: 350px;
+}
+.vangelis {
+  width: 350px; 
+  padding: 0px; 
+  border: 1px solid silver;
+  margin: 5px;
+}
+.model-04 {
+  width: 350px;
+}
+.pr-5 {
+  width: 350px; 
+  padding: 0px; 
+  border: 1px solid silver; 
+  margin: 5px;
+}
+.gr-1 {
+  height: 500px;
+}
+.gr-2 {
+  height: 400px;
+}
+.gr-3 {
+  height: 250px;
+}
+.gr-4 {
+  height: 250px;
+}
+
 }
